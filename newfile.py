@@ -64,7 +64,6 @@ def start(message):
     mar.add(E)
     mar.add(G,H)
     mar.add(V,W) 
-    mar.add(F,M)
     mar.add(I,J)
     mar.add(K)
     mar.add(Z) 
